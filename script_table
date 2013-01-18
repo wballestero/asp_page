@@ -1,0 +1,8 @@
+Create table dbo.tareas(
+tarea (int), 
+nombre (nchar(25)), 
+inicio (datetime), 
+fin (datetime), 
+vencimiento (datetime), 
+descripcion (nchar(80))
+)
